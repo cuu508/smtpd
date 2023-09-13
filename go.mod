@@ -1,3 +1,3 @@
-module github.com/mhale/smtpd
+module github.com/cuu508/smtpd
 
-go 1.14
+go 1.18
